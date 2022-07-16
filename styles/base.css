@@ -1,0 +1,23 @@
+:root {
+    /*fonts*/
+    --principal-font: 'JetBrains Mono', monospace;
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: solid 1px red;
+}
+
+
+html {
+    font-size: 62.5%;
+}
+
+
+body {
+    font-family: 'JetBrains Mono', monospace;
+}
+
