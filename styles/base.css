@@ -21,3 +21,6 @@ body {
     font-family: 'JetBrains Mono', monospace;
 }
 
+a {
+    text-decoration: none;
+}

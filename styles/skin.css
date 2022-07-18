@@ -1,0 +1,42 @@
+.error-title {
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+
+
+.error-title__big {
+    font-size: 4.8rem;
+    font-weight: 700;
+    line-height: 7.1rem;;
+}
+
+
+.error-description {
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+    color: #4F4F4F;
+}
+
+
+.return-home-btn {
+    display: block;
+    width: 216px;
+    padding: 24px 43px 24px 43px;
+    text-align: center;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    color: white;
+    background-color: #333333;
+}
+
+
+.attribution {
+    font-size: 1.4rem;
+    color: #a0a0a0;
+}
+
+
+.attribution a {
+    font-weight: 700;
+    color: #4F4F4F;
+}
