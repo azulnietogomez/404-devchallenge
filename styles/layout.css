@@ -47,6 +47,42 @@ footer {
     height: auto;
 }
 
-.return-home-btn {
-    
+/*=== desktop layout ===*/
+
+@media (min-width: 600px) {
+    * {
+        outline: solid 1px blue;
+    }
+
+    body {
+       height: 100vh;
+    }
+
+
+    header {
+        padding: 40px 0px 0px 77px;
+    }
+
+
+    main {
+        display: flex;
+        margin-top: 200px;
+        padding: 0px 77px;
+    }
+
+
+    .error-illustration {
+        width: 540px;
+        margin: 0px 118px 0px 0px;
+    }
+
+
+    .error-title__big {
+        margin-bottom: 36px;
+    }
+
+
+    .error-description {
+        margin-bottom: 88px
+    }
 }
